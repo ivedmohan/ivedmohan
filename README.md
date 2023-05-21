@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ivedmohan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML
+- [![ivedmohan's GitHub | Stats](https://stats.quine.sh/ivedmohan/github?theme=dark)](https://quine.sh)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <img src="{https://www.linkedin.com/in/ved-mohan/}" />
 
